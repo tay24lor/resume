@@ -1,4 +1,4 @@
-import { EnvelopeIcon, PhoneIcon, MapPinIcon, SunIcon, MoonIcon, LinkIcon, CodeBracketIcon } from '@heroicons/react/24/outline'
+import { EnvelopeIcon, PhoneIcon, MapPinIcon, SunIcon, MoonIcon, CodeBracketIcon } from '@heroicons/react/24/outline'
 import { motion } from 'framer-motion'
 import { useState, useEffect } from 'react'
 
