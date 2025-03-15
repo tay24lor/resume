@@ -127,9 +127,6 @@ function App() {
                 <a href="https://github.com/tay24lor/Capstone_Project.git" className="project-link">
                   <CodeBracketIcon /> View Code
                 </a>
-                <a href="#" className="project-link">
-                  <LinkIcon /> Demo Video
-                </a>
               </div>
             </div>
 
@@ -149,9 +146,6 @@ function App() {
                 <a href="https://github.com/tay24lor/StudentTrackingApp.git" className="project-link">
                   <CodeBracketIcon /> View Code
                 </a>
-                <a href="#" className="project-link">
-                  <LinkIcon /> Live Demo
-                </a>
               </div>
             </div>
 
@@ -169,11 +163,8 @@ function App() {
                 professional design using pure CSS.
               </p>
               <div className="project-links">
-                <a href="#" className="project-link">
+                <a href="https://github.com/tay24lor/resume.git" className="project-link">
                   <CodeBracketIcon /> View Code
-                </a>
-                <a href="#" className="project-link">
-                  <LinkIcon /> Live Site
                 </a>
               </div>
             </div>
