@@ -158,7 +158,7 @@ function App() {
                 <span className="project-tag">Framer Motion</span>
               </div>
               <p className="project-description">
-                Personal project developed during Web Development course. Built a modern, responsive resume website using React 
+                Personal project hosted on Vercel. Built a modern, responsive resume website using React 
                 and TypeScript. Implemented features like dark mode, smooth animations with Framer Motion, and a clean, 
                 professional design using pure CSS.
               </p>
