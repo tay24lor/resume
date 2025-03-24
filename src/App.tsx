@@ -51,6 +51,13 @@ function App() {
           <h2>Software Developer</h2>
           
           <div className="contact-info">
+          <div className="contact-item">
+              <img src="src\assets\LinkedIn_icon.png" alt="LinkedIn Icon"
+              width={'25'} />
+              <a href="www.linkedin.com/in/taylor-aubrey-7a18bb1b3">
+              www.linkedin.com/in/taylor-aubrey-7a18bb1b3
+              </a>
+            </div>
             <div className="contact-item">
               <EnvelopeIcon />
               <a href="mailto:taylor.aubrey507@gmail.com">
