@@ -51,13 +51,7 @@ function App() {
           <h2>Software Developer</h2>
           
           <div className="contact-info">
-          <div className="contact-item">
-              <img src="src\assets\linkedin_icon.png" alt="LinkedIn Icon"
-              width={'25'} />
-              <a href="www.linkedin.com/in/taylor-aubrey-7a18bb1b3">
-              www.linkedin.com/in/taylor-aubrey-7a18bb1b3
-              </a>
-            </div>
+            
             <div className="contact-item">
               <EnvelopeIcon />
               <a href="mailto:taylor.aubrey507@gmail.com">
@@ -71,6 +65,11 @@ function App() {
             <div className="contact-item">
               <MapPinIcon />
               <span>Lewisville, TX</span>
+            </div>
+            <div className="contact-item">
+              <a href="www.linkedin.com/in/taylor-aubrey-7a18bb1b3">
+              Visit my LinkedIn {'>>'}
+              </a>
             </div>
           </div>
 
