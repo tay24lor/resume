@@ -733,4 +733,6 @@ h2 {
   width: 150px;
   color: var(--text-secondary);
   outline: 1px solid var(--text-secondary);
+  padding: 3px;
+  box-shadow: 0 2px 5px rgb(96, 38, 38);
 }
