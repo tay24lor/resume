@@ -29,7 +29,6 @@ function App() {
     <div className="background-wrapper">
       <CustomBackground style={backgroundStyle as 'gradient' | 'particles' | 'waves'} isDark={isDark} />
       <div className="container">
-        <div id='disclaimer'>Background style and chatbot are new features. Let me know what you think!</div>
         <div className="background-controls">
           <button
             type="button"

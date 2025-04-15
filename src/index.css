@@ -723,16 +723,3 @@ h2 {
     min-width: 120px;
   }
 }
-
-#disclaimer {
-  position: fixed;
-  left: 15px;
-  top: 25px;
-  font-style: italic;
-  transform: rotate(-25deg);
-  width: 150px;
-  color: var(--text-secondary);
-  outline: 1px solid var(--text-secondary);
-  padding: 3px;
-  box-shadow: 0 2px 5px rgb(96, 38, 38);
-}
