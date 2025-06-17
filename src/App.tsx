@@ -96,7 +96,7 @@ function App() {
                 <span>Lewisville, TX</span>
               </div>
               <div className="contact-item">
-                <a href="www.linkedin.com/in/taylor-aubrey-7a18bb1b3">
+                <a href="https://www.linkedin.com/in/taylor-aubrey-7a18bb1b3">
                 Visit my LinkedIn {'>>'}
                 </a>
               </div>
