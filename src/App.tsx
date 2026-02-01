@@ -234,6 +234,14 @@ function App() {
             <h2 className="section-title">Experience</h2>
 
             <div>
+                <div className="experience-item">
+                <h3 className="experience-title">IT Service Desk Agent</h3>
+                <div className="experience-company">Parsons Corporation • Sept - Nov 2025</div>
+                <ul className="experience-list">
+                  <li>Ran BIOS updates on over 100 work laptops</li>
+                  <li>Created an Excel spreadsheet with automated color-coding to maintain a record of progress</li>
+                </ul>
+              </div>
               <div className="experience-item">
                 <h3 className="experience-title">Warehouse Associate/Forklift Driver</h3>
                 <div className="experience-company">Amazon • 2020 - 2021</div>
