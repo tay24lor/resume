@@ -215,7 +215,7 @@ function App() {
                   An e-commerce application for managing flower sales. Users can browse products, add them to their cart, and complete purchases. Implemented features include user authentication, product filtering, and a responsive design.
                 </p>
                 <div className="project-links">
-                  <a href="https://github.com/yourusername/my-flower-store" className="project-link">
+                  <a href="https://github.com/tay24lor/my-flower-store" className="project-link">
                     <CodeBracketIcon /> View Code
                   </a>
                 </div>
