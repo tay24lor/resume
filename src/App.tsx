@@ -203,6 +203,24 @@ function App() {
                   </a>
                 </div>
               </div>
+
+              <div className="project-card">
+                <h3 className="project-title">My Flower Store</h3>
+                <div className="project-tags">
+                  <span className="project-tag">React</span>
+                  <span className="project-tag">TypeScript</span>
+                  <span className="project-tag">CSS</span>
+                </div>
+                <p className="project-description">
+                  An e-commerce application for managing flower sales. Users can browse products, add them to their cart, and complete purchases. Implemented features include user authentication, product filtering, and a responsive design.
+                </p>
+                <div className="project-links">
+                  <a href="https://github.com/yourusername/my-flower-store" className="project-link">
+                    <CodeBracketIcon /> View Code
+                  </a>
+                </div>
+              </div>
+
             </div>
           </motion.section>
 
