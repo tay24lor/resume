@@ -218,6 +218,7 @@ function App() {
                   <a href="https://github.com/tay24lor/my-flower-store" className="project-link">
                     <CodeBracketIcon /> View Code
                   </a>
+                  <a href="https://mkflowers.netlify.app/">Visit Site `&gt;`</a>
                 </div>
               </div>
 
