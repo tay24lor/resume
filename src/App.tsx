@@ -146,7 +146,7 @@ function App() {
 
             <div className="projects-grid">
               <div className="project-card">
-                <h3 className="project-title">Java Inventory Management System</h3>
+                <h3 className="project-title">StockLane</h3>
                 <div className="project-tags">
                   <span className="project-tag">Java</span>
                   <span className="project-tag">JavaFX</span>
@@ -166,7 +166,7 @@ function App() {
               </div>
 
               <div className="project-card">
-                <h3 className="project-title">Academic Schedule Planner</h3>
+                <h3 className="project-title">Acadex</h3>
                 <div className="project-tags">
                   <span className="project-tag">Java</span>
                   <span className="project-tag">Android</span>
@@ -205,7 +205,7 @@ function App() {
               </div>
 
               <div className="project-card">
-                <h3 className="project-title">My Flower Store</h3>
+                <h3 className="project-title">ResinWorks</h3>
                 <div className="project-tags">
                   <span className="project-tag">React</span>
                   <span className="project-tag">TypeScript</span>
